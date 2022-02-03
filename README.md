@@ -1,2 +1,0 @@
-# revShell
-Python RevShell
